@@ -1,4 +1,6 @@
 # FlashyMath
+**Support**
+Contact flashymath.supergoose@gmail.com for questions or comments.
 
 **Privacy Policy**
 
